@@ -1,7 +1,7 @@
 name = "PolyJuMP"
 uuid = "ddf597a6-d67e-5340-b84c-e37d84115374"
 repo = "https://github.com/JuliaOpt/PolyJuMP.jl.git"
-version = "0.3.1"
+version = "0.3.2"
 
 [deps]
 JuMP = "4076af6c-e467-56ae-b986-b466b2749572"
@@ -16,7 +16,7 @@ JuMP = "0.19"
 MathOptInterface = "~0.8.2"
 MultivariateMoments = "≥ 0.2.1"
 MultivariatePolynomials = "~0.3"
-SemialgebraicSets = "0.1"
+SemialgebraicSets = "0.2"
 julia = "1"
 
 [extras]
